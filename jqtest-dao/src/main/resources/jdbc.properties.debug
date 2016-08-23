@@ -1,0 +1,4 @@
+database.driverClassName=com.mysql.jdbc.Driver
+database.url=jdbc:mysql://cobar.debug.internal.wandoujia.com:8066/ads?createDatabaseIfNotExist=true&amp;useUnicode=true&amp;characterEncoding=utf-8&amp;autoReconnect=true&amp;jdbcCompliantTruncation=false
+database.userName=ads3x
+database.password=36{%3J+a?;TY63efCy?Rv

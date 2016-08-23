@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JqTest.iml" filepath="$PROJECT_DIR$/JqTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jqtest-dao/jqtest-dao.iml" filepath="$PROJECT_DIR$/jqtest-dao/jqtest-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jqtest-service/jqtest-service.iml" filepath="$PROJECT_DIR$/jqtest-service/jqtest-service.iml" />
+    </modules>
+  </component>
+</project>
